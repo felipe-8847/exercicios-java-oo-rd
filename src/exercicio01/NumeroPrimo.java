@@ -3,7 +3,7 @@ package exercicio01;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class NumeroPrimo {
+public class NumeroPrimo extends Fibonacci{
 
     /**
      * Retorna um conjunto contendo os números primos contidos num conjunto de inteiros passado no parâmetro,
